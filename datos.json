@@ -1,4 +1,4 @@
-[ //no se usan números, caracteres raros, tildes o acentos.
+[
     {
         "nombre": "Cubo",
         "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
