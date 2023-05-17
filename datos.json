@@ -1,59 +1,58 @@
 [
     {
-        "nombre": "Cubo",
-        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "nombre": "Láminas exámen",
+        "fotos": ["img/lamina1.png", "img/lamina2.png", "img/lamina3.png"],
         "soporte": "informacion",
-        "abstract": "Lámina para el examen del proyecto Cubo | Taller de Identidad, primer semestre 2019",
-        "texto": "Lámina para el examen del proyecto Cubo, que consistía en un kit creativo para usuarios que crearan material audiovisual (cine) de forma casera. El objetivo del proyecto era entregar herramientas simples que pudieran ser utilizadas con objetos cotidianos simples que los usuarios encontraran en sus casas, para lograr interesantes efectos audiovisuales."
-    },
-    {
-        "nombre": "Nimbus",
-        "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
-        "soporte": "informacion",
-        "abstract": "Lámina para el examen del proyecto Nimbus | Taller Producto, segundo semestre 2019",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "abstract": "Lámina para los examenes de los proyectos Cubo y Nimbus | Taller de Identidad y Taller Producto, primer y segundo semestre 2019",
+        "texto": "Lámina para el examen del proyecto Cubo, que consistía en un kit creativo para usuarios que crearan material audiovisual (cine) de forma casera. El objetivo del proyecto era entregar herramientas simples que pudieran ser utilizadas con objetos cotidianos simples que los usuarios encontraran en sus casas, para lograr interesantes efectos audiovisuales. Por otro lado, lámina para el examen del proyecto Nimbus, una linea de helados aromáticos inspirados en las nubes, desarrollada como una propuesta para la marca Savory."
     },
     {
         "nombre": "Conference of Youth 15 | COY15",
-        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "fotos": ["img/coy1.png", "img/coy2.png", "img/coy3.png"],
         "soporte": "marca",
         "abstract": "Desarrollo de los lineamientos gráficos e imagen de la Conferencia de la Juventus 15 | 2019",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "Desarrollo gráfico para la Conferencia de la Juventud 15, llevada a cabo durante los últimos días de diciembre en Madrid (inicialmente iba a realizarse en Chile pero no fue posible debido al estallido social). Se buscó una imagen que conversara correctamente con la COP25, pero manifestara la preocupación de las voces jovenes con respecto a la crisis climática."
     },
     {
         "nombre": "Uno.Cinco",
-        "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
+        "fotos": ["img/unocinco1.png", "img/unocinco2.png", "img/unocinco3.png"],
         "soporte": "marca",
         "abstract": "Desarrollo del logo e imagen de marca para la organización Uno.Cinco | 2020",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "Desarrollo de la imagen de marca para Uno.Cinco, organización de jóvenes que se dedica a la educación ambiental y la simplificación de información con respecto a la crisis socioambiental y los procesos estatales que se llevan a cabo en espacios como la UNFCCC (ONU) con respecto a la misma. Se buscó diseñar un logo que comunicara ciertos objetivos de la organización, y una imagen de marca simple que fuera replicable sin la constante supervisión de diseñadores en el proceso de producción gráfica."
     },
     {
         "nombre": "Afiches universitarios",
-        "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
+        "fotos": ["img/afiche1.png", "img/afiche2.png", "img/afiche3.png"],
         "soporte": "grafico",
         "abstract": "Afiches para ramos universitarios varios | Primer semestre 2021",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "Afiches varios para distintos proyectos. En primer lugar, afiche tipográfico desarrollado entorno a un manifiesto de la juventud sobre la crisis climática. Luego afiche realizado para el cortometraje 'La caja de mis memorias', que busca concientizar sobre la vulneración de la infancia. Finalmente un afiche inspirado en el estilo gráfico de Valentina Kulagina sobre el sobregiro ecológico."
     },
     {
         "nombre": "GudFud",
-        "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
+        "fotos": ["img/gudfud1.png", "img/gudfud2.png", "img/gudfud3.png"],
         "soporte": "grafico",
         "abstract": "Desarrollo de un emprendimiento ficticio | Desafío para la creación de empresas, primer semestre 2021",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
-    },
-    {
-        "nombre": "Manuia",
-        "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
-        "soporte": "marca",
-        "abstract": "Desarrollo del logo e imagen de marca para la consultora Manuia | 2020",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "Proyecto en torno al desarrollo del emprendimiento GudFud, empresa que se dedicaría a la producción de cajas con ingredientes pre-medidos para la cantidad de consumidores y personalizados según las preferencias de los clientes. Esto con el objetivo de reducir la cantidad de sobras que se botan a la basura y facilitar el proceso de preparación de la comida."
     },
     {
         "nombre": "Etiquetas de vino",
-        "fotos": ["https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310", "https://picsum.photos/id/816/500/310"],
+        "fotos": ["img/etiqueta1.png", "img/etiqueta2.png", "img/etiqueta3.png"],
         "soporte": "grafico",
         "abstract": "Desarrollo de etiquetas varias de vino para las viñas Polkura y Carter Mollenhauer | 2020 - 2022",
-        "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
+        "texto": "Producción de etiquetas de vino. En primer lugar, diseño de la etiqueta para el vino Diluta de la viña Polkura, inspirado en la especie en peligr de extinción 'AAlstroemeria diluta'. También diseño de las etiquetas frontal y posterior del vino VIGNO, para la viña Carter Mollenhauer."
+    },
+    {
+        "nombre": "Infografía Minecraft",
+        "fotos": ["img/minecraft1.png", "img/minecraft2.png"],
+        "soporte": "informacion",
+        "abstract": "Desarrollo de infografía sobre la actualización Caves & Cliffs de Minecraft | Primer semestre 2022",
+        "texto": "Producción de infografía sobre todos los aspectos de la actualización 1.8 y 1.9, denominada Caves & Cliffs. Esto incluye extensión de la altura del mundo, todos los bloques añadidos al juego, criaturas como los ajolotes, cabras y calamares luminosos y la adición de cuevas y biomas de cuevas."
+    },
+    {
+        "nombre": "Guemil",
+        "fotos": ["img/guemil1.png", "img/guemil2.png", "img/guemil3.png"],
+        "soporte": "informacion",
+        "abstract": "Desarrollo de íconos para olas de calor y un activador para emergencias volcánicas | 2022",
+        "texto": "Desarrollo y producción de íconos para qué hacer en caso de una ola de calor. Proyecto de activadores."
     }
-
 ]
